@@ -61,7 +61,8 @@
 		"vaul": "^1.1.2",
 		"ws": "^8.18.2",
 		"yup": "^1.6.1",
-		"zustand": "^5.0.3"
+		"zustand": "^5.0.3",
+		"@react-router/dev": "^7.6.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.27.1",
